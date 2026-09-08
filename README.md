@@ -1,4 +1,4 @@
-# okaka-test 🌱 Git / GitHub 練習用リポジトリ
+🌱 Git / GitHub 練習用リポジトリ
 
 Git の「ブランチ」と GitHub での開発の流れ(Pull Request)を、実際に手を動かして体験するためのリポジトリです。
 
